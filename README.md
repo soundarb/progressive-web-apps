@@ -1,1 +1,1 @@
-# progressive-web-apps
+# A plain vanilla progressive web app example
